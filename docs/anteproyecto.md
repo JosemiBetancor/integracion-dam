@@ -4,9 +4,7 @@
 
 ## OBJETIVOS
 
-*[TODO] Se indicará de forma genérica y sin entrar en concreciones el objetivo
-que se pretende alcanzar al realizar el proyecto. Se indicará igualmente donde
-será utilizado el proyecto obtenido.*
+*Se va a desarrollar una aplicación multiplataforma, pc y dispositivos moviles, la apliación va a ser destinada para partidas de rol, haciendo mas facil el desarrollo de las partidas, dejando de lado las hojas de jugador tradicionales ya que al cambiar datos de tanto borrar y escribir a lapiz los folios se desgastan y hay que cambiarlos. La idea es facilitar la creacion de hojas de personaje, mapas con sprites propios para los combates y las misiones, listado de objetos de cada jugador accesible por el master, cada jugador podra tener una imagen de personaje propia, etc. Se trata de una aplicación dirigida para todos los jugadores de rol creo que puede funcionar muy bien entre estos si se desarrolla una aplicación comoda de usar y con un buen diseño.* 
 
 ## PREANALISIS DE LO EXISTENTE (Opcional)
 
