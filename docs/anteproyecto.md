@@ -13,7 +13,7 @@
 
 ## DISEÑO DEL SOFTWARE
 
-*En la empresa de practicas estamos haciendo un curso de full stack estamos aprendiendo a usar el framework spring con rest y jpa para el backend y vamos a aprender a usar angular para el frontend, asi que he decidido usar todos estos conocimientos para el desarrollo de mi proyecto final, trabajare con java y el framework spring y jpa para la base de datos de los jugadores y luego con angular y javascript hare el frontend de la app. *
+*En la empresa de practicas estamos haciendo un curso de full stack estamos aprendiendo a usar el framework spring con rest y jpa para el backend y vamos a aprender a usar angular para el frontend, asi que he decidido usar todos estos conocimientos para el desarrollo de mi proyecto final, trabajare con java y el framework spring y jpa para la base de datos de los jugadores y luego con angular y javascript hare el frontend de la app.*
 
 ## ESTIMACIÓN DE COSTES
 
