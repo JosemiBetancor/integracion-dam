@@ -14,10 +14,14 @@
 ## DISEÑO DEL SOFTWARE
 
 *En la empresa de practicas estamos haciendo un curso de full stack estamos aprendiendo a usar el framework spring con rest y jpa para el backend y vamos a aprender a usar angular para el frontend, asi que he decidido usar todos estos conocimientos para el desarrollo de mi proyecto final, trabajare con java y el framework spring y jpa para la base de datos de los jugadores y luego con angular hare el frontend de la app.*
+<ol>
+<li>1.[Spring boot](https://spring.io).</li>
+<li>2.[Angular](https://angular.io).</li>
+<li>3.[JPA](https://www.arquitecturajava.com/ejemplo-de-jpa/)</li>
+</ol>
 
-1.[Spring boot](https://spring.io).
-2.[Angular](https://angular.io).
-3.[JPA](https://www.arquitecturajava.com/ejemplo-de-jpa/)
+
+
 
 
 ## ESTIMACIÓN DE COSTES
