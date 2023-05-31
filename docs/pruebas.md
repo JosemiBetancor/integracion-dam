@@ -1,7 +1,3 @@
 # Pruebas
 
-Detección de fallos cometidos en las etapadas anteriores para corregirlos. Elaborar planes de pruebas a distintos niveles: pruebas unitarias, pruebas de integración, pruebas con usuarios, ...
-
-Incluye en este apartado la documentación de las pruebas que te planteas realizar.
-
-También la documentación resultante de las pruebas realizadas con la confimación de su correcto funcionamiento y las conclusiones que se puedan extraer de las mismas. 
+Las pruebas han sido realizadas distribuyendo las imagenes de docker a distintos testers, durante la fase de pruebas se han descubierto diversos errores, sobretodo relacionados con el mapa de pixijs. Se han ido solucionando con el feedback de los usuarios. Tambien lo ha testeado la persona para la que va dirigida la aplicacion, su opinion ha influido en el diseño de la aplicación dando lugar a diversos cambios en el diseño para ajustar su comodidad. se han añadido modales para los datos de los personajes para hacer mas comoda la estancia en la web de los usuarios. 
